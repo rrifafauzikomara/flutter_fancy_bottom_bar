@@ -67,3 +67,9 @@ The bar will attempt to use your current theme out of the box, however you may w
 
 To select a tab programmatically you will need to assign a GlobalKey to the widget. When you want to change tabs you will need to access the State using this key, and then call `setPage(position)`.<br/>
 See example project, main.dart, line 75 for an example.
+
+## Author
+
+* **R Rifa Fauzi Komara**
+
+Don't forget to follow and ★
