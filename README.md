@@ -1,5 +1,9 @@
 # FancyBottomNavigation
 
+[pub package](https://pub.dev/packages/fancy_bottom_navigation)
+
+A Flutter package for easy implementation of fancy bottom navigation. 
+
 ![Fancy Gif](https://github.com/rrifafauzikomara/flutter_fancy_bottom_bar/blob/master/fancy_gif.gif "Fancy Gif")
 
 <img src="fancy.png" width="250" height="444">
@@ -65,16 +69,3 @@ The bar will attempt to use your current theme out of the box, however you may w
 
 To select a tab programmatically you will need to assign a GlobalKey to the widget. When you want to change tabs you will need to access the State using this key, and then call `setPage(position)`.<br/>
 See example project, main.dart, line 75 for an example.
-
-## Showcase
-Using this package in a live app, let me know and I'll add you app here.
-
-
-## Inspiration
-
-This package was inspired by a design on dribbble by Manoj Rajput:<br/>
-https://dribbble.com/shots/5419022-Tab
-
-## Contributing
-
-Contributions are welcome, please submit a PR :)
