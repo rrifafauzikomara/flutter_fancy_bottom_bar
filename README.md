@@ -1,6 +1,8 @@
 # FancyBottomNavigation
 
-![Fancy Gif](https://github.com/tunitowen/fancy_bottom_navigation/blob/master/fancy_gif.gif "Fancy Gif")
+![Fancy Gif](https://github.com/rrifafauzikomara/flutter_fancy_bottom_bar/blob/master/fancy_gif.gif "Fancy Gif")
+
+<img src="fancy.png" width="250" height="444">
 
 ## Getting Started
 
