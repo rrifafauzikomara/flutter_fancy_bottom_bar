@@ -45,9 +45,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
           },
         ),
         body: Container(
-          color: Colors.blueAccent,
           child: Center(
-            child: Text(currentPage.toString(), textScaleFactor: 10.0, style: TextStyle(color: Colors.white),),
+            child: Text(currentPage.toString(), textScaleFactor: 10.0),
           ),
         ));
   }
