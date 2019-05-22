@@ -8,9 +8,7 @@ A Flutter package for easy implementation of fancy bottom navigation.
 
 <img src="fancy.png" width="250" height="444">
 
-## Getting Started
-
-Add the plugin (pub coming soon):
+## Add dependency
 
 ```yaml
 dependencies:
